@@ -78,7 +78,7 @@ repairKitsBuy(90);
 showstatus();
 
 showstatus();
-userepairKits();
+userepairKits(12);
 showstatus();
 
 
